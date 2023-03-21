@@ -3,11 +3,14 @@ This project is mainly used to detect the disease in the crops on its early stag
 Install Python (Setup instructions)
 
 Install Python packages
+
 pip install matplotlib
-pip install 
-Install Tensorflow
+
+pip install tensorflow
 
 TRAINING THE MODEL
+
+
 Download the data from kaggle.
 Only keep folders related to Crop you want.
 Run Jupyter Notebook in Browser.
